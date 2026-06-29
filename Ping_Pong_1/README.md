@@ -62,21 +62,6 @@
 
 ---
 
-
-## Run
-
-Simply open
-
-```
-index.html
-```
-
-in your browser.
-
-No installation required.
-
----
-
 # 📂 Project Structure
 
 ```
