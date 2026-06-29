@@ -5,7 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mithun0017/PingPong-Collection)
 ![GitHub stars](https://img.shields.io/github/stars/Mithun0017/PingPong-Collection?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Mithun0017/PingPong-Collection?style=social)
-![License](https://img.shields.io/github/license/Mithun0017/PingPong-Collection)
 
 ---
 
