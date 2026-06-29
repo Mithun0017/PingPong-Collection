@@ -45,7 +45,4 @@ This project is licensed under the MIT License.
 # 👨‍💻 Author
 
 **Mithun**
-
-Building classic games while learning modern game development technologies.
-
 Happy Coding! 🚀
